@@ -1,1 +1,1 @@
-This is an xample of using the builder pattern
+This is an example of using the builder pattern
