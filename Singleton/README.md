@@ -1,0 +1,1 @@
+An example of the using "Singleton" pattern. As well as solving the problem of multithreading
