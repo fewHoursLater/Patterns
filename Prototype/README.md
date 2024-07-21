@@ -1,0 +1,1 @@
+An example of the using "Prototype" pattern.
