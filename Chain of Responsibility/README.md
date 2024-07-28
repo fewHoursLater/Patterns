@@ -1,1 +1,1 @@
-Example of using pettern "Chain of responsibility"
+Example of using pattern "Chain of responsibility"
