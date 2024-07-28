@@ -1,0 +1,1 @@
+Example of using pettern "Chain of responsibility"
