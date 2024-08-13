@@ -1,0 +1,1 @@
+Example of using pattern "Strategy" with smart pointer and string_view
